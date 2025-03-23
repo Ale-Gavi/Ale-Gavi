@@ -1,6 +1,6 @@
-# 🌎・ Hello world!
+# 🌎 Hello world!
 
-## 🧑・ About me:
+## 🧑 About me:
 - 💻 Studying IT at school. <br>
 
 ## 🌐 Socials:
