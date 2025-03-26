@@ -1,7 +1,7 @@
-# 🌐・Currently Working On:
+# 📚・Currently Working On:
 - Quantum Computing
 
-# 🌐・ Small projects:
+# 💾・Small projects:
 - 🧑‍🚀 [Space-Login-Page](https://ale-gavi.github.io/Space_Login_Page/Login_Page/)
 
 # 🌐・Socials:
