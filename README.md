@@ -1,5 +1,7 @@
-# 📚・Currently Working On:
-- Quantum Computing
+👋 Hi there! I'm Alessandro Gavioli
+
+🎓 I'm a passionate IT student.
+I love building creative and practical solutions using both hardware and software, and I'm always looking for new technologies to learn and experiment with.
 
 # 💾・Small projects:
 - 🚀 [Space Login Page](https://ale-gavi.github.io/Space_Login_Page/Login_Page/)
