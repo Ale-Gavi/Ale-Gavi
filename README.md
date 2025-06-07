@@ -1,7 +1,6 @@
 👋 Hi there!
 
 🎓 I'm a passionate IT student.
-
 I love building creative and practical solutions using both hardware and software, and I'm always looking for new technologies to learn and experiment with.
 
 # 💾・Small projects:
