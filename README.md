@@ -1,3 +1,17 @@
+# Hi there 👋
+
+I'm a **Computer Science student** passionate about:
+
+- Robotics 🤖
+- Electronics ⚡
+- Microcontrollers 🔧
+- 3D Printing & Modeling 🖨️
+- Network Systems 🌐
+
+I enjoy combining hardware and software to build innovative projects and explore the intersection of physical computing and software development.
+
+---
+
 # 💾・Small projects:
 - 🚀 [Space Login Page](https://ale-gavi.github.io/Space_Login_Page/Login_Page/)
 
