@@ -20,7 +20,8 @@ I enjoy combining hardware and software to build innovative projects and explore
 ---
 
 ## 🌱 Interests
-`Full Stack Dev` `Game Dev` `Electronics` `PCB Design` `3D CAD & Parametric Modeling` `3D Graphics & Animation` `Embedded Systems` `Robotics`
+`Full Stack Dev` `Game Dev` `Electronics` `PCB Design` `3D CAD & Parametric Modeling` `3D Graphics & Animation` 
+`Embedded Systems` `Robotics`
 
 ---
 
